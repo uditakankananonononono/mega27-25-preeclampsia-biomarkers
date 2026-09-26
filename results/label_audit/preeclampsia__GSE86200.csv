@@ -1,0 +1,9 @@
+text,label,count
+"#-m, at #-# weeks of gestation | whole blood_at #-# weeks of gestation | treatment group: control group, # iu vitamin d supplementation | pregnancy condition: normal",control,12
+"#-m, at #-# weeks of gestation | whole blood_at #-# weeks of gestation | treatment group: intervention group, # iu vitamin d supplementation | pregnancy condition: normal",control,12
+"#-m, at enrollment | whole blood_at enrollment | treatment group: intervention group, # iu vitamin d supplementation | pregnancy condition: normal",control,12
+"#-m, at enrollment | whole blood_at enrollment | treatment group: control group, # iu vitamin d supplementation | pregnancy condition: normal",control,12
+"#-m, at #-# weeks of gestation | whole blood_at #-# weeks of gestation | treatment group: intervention group, # iu vitamin d supplementation | pregnancy condition: preeclampsia",case,3
+"#-m, at #-# weeks of gestation | whole blood_at #-# weeks of gestation | treatment group: control group, # iu vitamin d supplementation | pregnancy condition: preeclampsia",DROP,3
+"#-m, at enrollment | whole blood_at enrollment | treatment group: control group, # iu vitamin d supplementation | pregnancy condition: preeclampsia",DROP,3
+"#-m, at enrollment | whole blood_at enrollment | treatment group: intervention group, # iu vitamin d supplementation | pregnancy condition: preeclampsia",case,3

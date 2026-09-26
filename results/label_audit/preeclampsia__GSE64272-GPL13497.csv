@@ -1,0 +1,6 @@
+text,label,count
+h# esc bmp# | h# esc of # days culture with mef-cm+bmp# (# ng/ml),DROP,1
+h# esc bmp#+a#-# | h# esc of # days culture with mef-cm+bmp# (# ng/ml)+a#-# (# μm),DROP,1
+v# ipsc bmp# | v#-ipsc of # days culture with mef-cm+bmp# (# ng/ml),DROP,1
+v# ipsc bmp#+a#-# | v#-ipsc of # days culture with mef-cm+bmp# (# ng/ml)+a#-# (# μm),DROP,1
+v# ipsc fgf# | v#-ipsc of # days culture with mef-cm+fgf# (# ng/ml),DROP,1

@@ -1,0 +1,5 @@
+text,label,count
+normal pregnancy #_ non decidualized | primary human endometrial stromal cells_ normal pregnancy (non-decidualized),control,7
+normal pregnancy #_ decidualized | primary human endometrial stromal cells_ normal pregnancy (decidualized),control,5
+severe preeclampsia #_decidualized | primary human endometrial stromal cells_ severe preeclampsia (decidualized),case,5
+severe preeclampsia #_non decidualized | primary human endometrial stromal cells_ severe preeclampsia (non-decidualized),case,3

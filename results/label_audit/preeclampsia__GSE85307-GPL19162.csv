@@ -1,0 +1,5 @@
+text,label,count
+"subject #-m, microrna, normal pregnancy | paxgene whole blood | pregnancy_condition: normal",control,109
+"subject #-m, microrna, preeclampsia pregnancy | paxgene whole blood | pregnancy_condition: preeclampsia",case,46
+"subject #-m, microrna, normal pregnancy, replicate # | paxgene whole blood | pregnancy_condition: normal",control,2
+"subject #-m, microrna, preeclampsia pregnancy, replicate # | paxgene whole blood | pregnancy_condition: preeclampsia",case,2

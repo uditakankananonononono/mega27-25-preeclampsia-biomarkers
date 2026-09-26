@@ -1,0 +1,7 @@
+text,label,count
+bewo overexpressing stox#a forskolin-treated [bewoa fsk#] | bewo overexpressing stox#a forskolin-treated,DROP,3
+bewo overexpressing stox#a dmso [bewoa#] | bewo overexpressing stox#a dmso,DROP,3
+bewo overexpressing stox#b forskolin-treated [bewob fsk#] | bewo overexpressing stox#b forskolin-treated,DROP,3
+bewo control dmso [bewoc#] | bewo control dmso,control,2
+bewo control forskolin-treated [bewoc fsk#] | bewo control forskolin-treated,control,2
+bewo overexpressing stox#b dmso [bewob#] | bewo overexpressing stox#b dmso,DROP,2

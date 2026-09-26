@@ -1,0 +1,4 @@
+text,label,count
+placenta_eope_# | placenta | group: eope,DROP,13
+placenta_healthy_# | placenta | group: healthy,control,13
+placenta_lope_# | placenta | group: lope,case,6

@@ -1,0 +1,10 @@
+text,label,count
+fetal growth restriction (fgr) _# | human placenta (pla#) | disease state: fetal growth restriction (fgr),DROP,5
+normotensive control pregnancy_# | human placenta (pla#b) | disease state: normotensive control pregnancy,control,4
+fetal growth restriction (fgr) _# | human placenta (pla#a) | disease state: fetal growth restriction (fgr),DROP,3
+normotensive control pregnancy_# | human placenta (pla#) | disease state: normotensive control pregnancy,control,3
+pre-eclampsia_# | human placenta (pla#) | disease state: pre-eclampsia,case,3
+pre-eclampsia_# | human placenta (pla#b) | disease state: pre-eclampsia,case,2
+pre-eclampsia_# | human placenta (pla#a) | disease state: pre-eclampsia,case,2
+normotensive control pregnancy_# | human placenta (pla#a) | disease state: normotensive control pregnancy,control,1
+pre-eclampsia_# | human placenta (pla#c) | disease state: pre-eclampsia,case,1

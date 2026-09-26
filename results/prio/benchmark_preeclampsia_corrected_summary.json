@@ -1,0 +1,173 @@
+{
+  "source": "results/prio/benchmark_preeclampsia_corrected.csv",
+  "disease": "preeclampsia",
+  "n_gene_fold_splits": 10,
+  "split": "5-fold stratified gene label CV x2 seeds, common STRING graph, contemporaneous Open Targets proxy labels",
+  "npos": 1982,
+  "n_graph_genes": 15809,
+  "means": {
+    "gcn": {
+      "auroc": 0.6896343350939205,
+      "auprc": 0.2809228850731405
+    },
+    "logreg": {
+      "auroc": 0.612480687903801,
+      "auprc": 0.18910379678806674
+    },
+    "meta_abs_z": {
+      "auroc": 0.5774492338117776,
+      "auprc": 0.17084256991575456
+    },
+    "mlp": {
+      "auroc": 0.6175538634800456,
+      "auprc": 0.19515151482666737
+    },
+    "rwr": {
+      "auroc": 0.6627899927456788,
+      "auprc": 0.25959482074127993
+    },
+    "sage": {
+      "auroc": 0.6903569377446053,
+      "auprc": 0.26800225987647747
+    },
+    "sage_rwr": {
+      "auroc": 0.6629689191277496,
+      "auprc": 0.2528398895929377
+    }
+  },
+  "paired_vs_rwr": {
+    "gcn": {
+      "auroc": {
+        "mean_paired_difference": 0.02684434234824168,
+        "n_wins": 10,
+        "n_losses": 0,
+        "bootstrap_fold_ci95": [
+          0.02077025794479699,
+          0.03195868135150934
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": 0.021328064331860568,
+        "n_wins": 9,
+        "n_losses": 1,
+        "bootstrap_fold_ci95": [
+          0.012911627753629038,
+          0.029228008418424583
+        ],
+        "wilcoxon_p_exploratory": 0.00390625
+      }
+    },
+    "sage": {
+      "auroc": {
+        "mean_paired_difference": 0.027566944998926514,
+        "n_wins": 10,
+        "n_losses": 0,
+        "bootstrap_fold_ci95": [
+          0.019616007735282038,
+          0.035179058139658215
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": 0.008407439135197554,
+        "n_wins": 7,
+        "n_losses": 3,
+        "bootstrap_fold_ci95": [
+          0.0006479831959023898,
+          0.016603763076667607
+        ],
+        "wilcoxon_p_exploratory": 0.10546875
+      }
+    },
+    "sage_rwr": {
+      "auroc": {
+        "mean_paired_difference": 0.00017892638207077648,
+        "n_wins": 4,
+        "n_losses": 6,
+        "bootstrap_fold_ci95": [
+          -0.00287595734914316,
+          0.0027425132883567853
+        ],
+        "wilcoxon_p_exploratory": 0.845703125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.0067549311483422695,
+        "n_wins": 3,
+        "n_losses": 7,
+        "bootstrap_fold_ci95": [
+          -0.010572511910321183,
+          -0.002850049643976017
+        ],
+        "wilcoxon_p_exploratory": 0.02734375
+      }
+    },
+    "mlp": {
+      "auroc": {
+        "mean_paired_difference": -0.045236129265633175,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.0528976363374663,
+          -0.03848462913736695
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.06444330591461257,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.07036216142517346,
+          -0.058402351759597335
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    },
+    "logreg": {
+      "auroc": {
+        "mean_paired_difference": -0.05030930484187783,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.05561604575526312,
+          -0.04541090000493989
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.07049102395321319,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.07448927313076333,
+          -0.06584717791040398
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    },
+    "meta_abs_z": {
+      "auroc": {
+        "mean_paired_difference": -0.08534075893390115,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.09416264732244203,
+          -0.0770392805272658
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.08875225082552538,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.09545421078464685,
+          -0.0818067551586561
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    }
+  },
+  "limitations": "Ten folds reuse one graph and label snapshot; bootstrap over folds is descriptive, not ten independent cohorts. Not a published same-task comparison, temporal target validation or clinical diagnostic result. Corrected after model-init seeding and train-fold scaling."
+}

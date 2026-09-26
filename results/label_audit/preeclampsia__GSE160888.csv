@@ -1,0 +1,3 @@
+text,label,count
+"placenta_normal_rep# | placenta,normal,replicate # | diagnosis: normal control",control,4
+"placenta_preeclampsia_rep# | placenta,preeclampsia,replicate # | diagnosis: preeclampsia",case,4

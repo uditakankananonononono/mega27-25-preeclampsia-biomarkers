@@ -1,0 +1,5 @@
+text,label,count
+sample #_mock_# | erwin-turner tumor,control,3
+sample #_p#_# | erwin-turner tumor,DROP,3
+sample #_p#sh_# | erwin-turner tumor,DROP,3
+sample #_scramble_# | erwin-turner tumor,DROP,3

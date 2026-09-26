@@ -1,0 +1,10 @@
+text,label,count
+"cont-ter-aga, rep# (methylation) | human placenta | diagnosis: non-pe",control,9
+"pe-term-sga, rep# (methylation) | human placenta | diagnosis: pe",case,7
+"pe-pret-sga, rep# (methylation) | human placenta | diagnosis: pe",case,6
+"cont-pret-aga, rep# (methylation) | human placenta | diagnosis: non-pe",control,5
+"pe-pret-aga, rep# (methylation) | human placenta | diagnosis: pe",case,5
+"pe-pret-ch, rep# (methylation) | human placenta | diagnosis: pe",case,5
+"cont-pret-ch, rep# (methylation) | human placenta | diagnosis: non-pe",control,4
+"pe-term-aga, rep# (methylation) | human placenta | diagnosis: pe",case,4
+"pe-term-ch, rep# (methylation) | human placenta | diagnosis: pe",case,3

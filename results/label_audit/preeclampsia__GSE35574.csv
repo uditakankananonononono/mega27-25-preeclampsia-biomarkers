@@ -1,0 +1,5 @@
+text,label,count
+human.placenta.# | human placenta | classification: control,control,40
+human.placenta.# | human placenta | classification: iugr,DROP,27
+human.placenta.# | human placenta | classification: pe,case,19
+human.placenta.#.rep | human placenta | classification: iugr,DROP,8

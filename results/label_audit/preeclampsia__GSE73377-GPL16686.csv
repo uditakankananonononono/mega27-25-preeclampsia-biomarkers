@@ -1,0 +1,3 @@
+text,label,count
+"expression_placental tissue_preeclamptic_subject_# | human placental tissue, preeclamptic | diagnosis: preeclamptic",case,19
+"expression_placental tissue_normotensive_subject_# | human placental tissue, normotensive | diagnosis: normotensive",control,17

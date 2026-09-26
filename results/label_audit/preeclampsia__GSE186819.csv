@@ -1,0 +1,5 @@
+text,label,count
+#м biological rep # | cd#+ monocytes | disease: late-onset preeclampsia,case,8
+#m biological rep # | cd#+ monocytes | disease: control,control,7
+#м biological rep # | cd#+ monocytes | disease: control,control,6
+#m biological rep # | cd#+ monocytes | disease: late-onset preeclampsia,case,4

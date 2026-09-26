@@ -1,0 +1,5 @@
+text,label,count
+iugr endothelial cells_s# | iugr endothelial cells | pathology: iugr | chronic htn (diagnosed <# weeks or pre-pregnancy): yes,case,4
+preterm labour control endothelial cells_s# | preterm labour control endothelial cells | pathology: ptl | chronic htn (diagnosed <# weeks or pre-pregnancy): no,control,3
+iugr endothelial cells_s# | iugr endothelial cells | pathology: iugr | chronic htn (diagnosed <# weeks or pre-pregnancy): no,control,2
+preterm labour control villous tree_jk# | preterm labour control villous tree | pathology: ptl,control,1

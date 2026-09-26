@@ -1,0 +1,4 @@
+text,label,count
+normotensive pregnancy [#-#] | normotensive pregnancy,control,12
+pe + hellp pregnancy [#-#] | pregnancy complicated with preeclampsia and hellp syndrome,case,7
+pe pregnancy [#-#] | pregnancy complicated with preeclampsia,case,5

@@ -1,0 +1,4 @@
+text,label,count
+placenta_pe(eo)# | placenta_pe(eo)# with cy# | placenta_nl with cy#,case,5
+placenta_pe(lo)# | placenta_pe(lo)# with cy# | placenta_nl with cy#,case,5
+placenta_nl# | placenta_nl# with cy# | placenta_nl with cy#,DROP,4

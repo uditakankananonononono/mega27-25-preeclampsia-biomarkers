@@ -1,0 +1,16 @@
+text,label,count
+"cont-ter-aga, rep# | human placenta from cont-ter-aga pregnancy | diagnosis: non-pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,9
+"cont-pret-aga, rep# | human placenta from cont-pret-aga pregnancy | diagnosis: non-pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,5
+"cont-pret-ch, rep# | human placenta from cont-pret-ch pregnancy | diagnosis: non-pe | hellp diagnosis: no | iugr diagnosis: yes | chorioamnionitis diagnosis: no",control,4
+"pe-term-aga, rep# | human placenta from pe-term-aga pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,4
+"pe-term-sga, rep# | human placenta from pe-term-sga pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: yes | chorioamnionitis diagnosis: no",control,4
+"pe-pret-sga, rep# | human placenta from pe-pret-sga pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: yes | chorioamnionitis diagnosis: no",control,4
+"pe-pret-aga, rep# | human placenta from pe-pret-aga pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,3
+"pe-term-sga, rep# | human placenta from pe-term-sga pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,3
+"pe-pret-ch, rep# | human placenta from pe-pret-ch pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: yes | chorioamnionitis diagnosis: no",control,2
+"pe-pret-aga, rep# | human placenta from pe-pret-aga pregnancy | diagnosis: pe | hellp diagnosis: yes | iugr diagnosis: no | chorioamnionitis diagnosis: no",case,2
+"pe-pret-ch, rep# | human placenta from pe-pret-ch pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,2
+"pe-term-ch, rep# | human placenta from pe-term-ch pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: no | chorioamnionitis diagnosis: no",control,2
+"pe-pret-sga, rep# | human placenta from pe-pret-sga pregnancy | diagnosis: pe | hellp diagnosis: yes | iugr diagnosis: yes | chorioamnionitis diagnosis: no",case,2
+"pe-pret-ch, rep# | human placenta from pe-pret-ch pregnancy | diagnosis: pe | hellp diagnosis: yes | iugr diagnosis: no | chorioamnionitis diagnosis: no",case,1
+"pe-term-ch, rep# | human placenta from pe-term-ch pregnancy | diagnosis: pe | hellp diagnosis: no | iugr diagnosis: yes | chorioamnionitis diagnosis: no",control,1

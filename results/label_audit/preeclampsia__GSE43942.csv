@@ -1,0 +1,3 @@
+text,label,count
+placenta_control_c# | normal term placentas | phenotype: normal,control,7
+placenta_pe_p# | preeclamptic term placentas | phenotype: preeclampsia,case,5

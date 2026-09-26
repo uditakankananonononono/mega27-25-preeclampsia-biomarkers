@@ -1,0 +1,3 @@
+text,label,count
+huvec_normal_rep# | control_primary huvecs_cultured for # days | subject status: control patient,DROP,4
+huvec_preeclampsia_rep# | pe_primary huvecs_cultured for # days | subject status: preeclampsia patient,DROP,4

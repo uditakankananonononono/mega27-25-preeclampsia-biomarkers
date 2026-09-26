@@ -1,0 +1,3 @@
+text,label,count
+human.placenta.# | human placenta | classification: control,control,37
+human.placenta.# | human placenta | classification: preeclamptic,case,23

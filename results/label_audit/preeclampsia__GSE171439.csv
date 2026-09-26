@@ -1,0 +1,4 @@
+text,label,count
+cytotrophoblast cells-il-#-#h-rep# | primary cytotrophoblast cells isolated from human term placenta treated with il-# for #h,DROP,6
+cytotrophoblast cells-control-#h-rep# | primary cytotrophoblast cells isolated from human term placenta treated with vehicle for #h,DROP,3
+cytotrophoblast cells-il-#+il-#-#h-rep# | primary cytotrophoblast cells isolated from human term placenta treated with il-#+ il-# for #h,DROP,3

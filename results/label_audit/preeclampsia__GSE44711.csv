@@ -1,0 +1,3 @@
+text,label,count
+chorionicvilli_control_# (expression) | chorionicvilli | condition: control,control,8
+chorionicvilli_eopet_# (expression) | chorionicvilli | condition: eopet,DROP,8

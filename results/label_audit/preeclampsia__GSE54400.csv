@@ -1,0 +1,21 @@
+text,label,count
+#% #p# | human umbilical cord fibroblast | diagnosis: healthy,control,9
+#% #p# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,9
+#% ap# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% bp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% cp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% dp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% fp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% gp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% hp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% ip# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% jp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% kp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% pp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,2
+#% lp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,1
+#% mp# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,1
+#% mp# | human umbilical cord fibroblast,DROP,1
+#% np# | human umbilical cord fibroblast,DROP,1
+#% np# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,1
+#% op# | human umbilical cord fibroblast,DROP,1
+#% op# | human umbilical cord fibroblast | diagnosis: preeclampsia,case,1

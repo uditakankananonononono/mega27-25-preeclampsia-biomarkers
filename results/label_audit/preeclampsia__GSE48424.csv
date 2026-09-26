@@ -1,0 +1,4 @@
+text,label,count
+"healthy-na_b, rep# | healthy, b | disease status: healthy",control,18
+"preeclampsia-s_a, rep# | preeclampsia, severe, a | disease status: preeclampsia",case,13
+"preeclampsia-ns_c, rep# | preeclampsia, non-severe, c | disease status: preeclampsia",case,5

@@ -1,0 +1,5 @@
+text,label,count
+decidua basalis from control pregnancy # | decidua basalis,control,4
+decidua basalis from preeclampsia pregnancy # | decidua basalis,case,4
+decidua parietalis from control pregnancy # | decidua parietalis,control,4
+decidua parietalis from preeclampsia pregnancy # | decidua parietalis,case,4

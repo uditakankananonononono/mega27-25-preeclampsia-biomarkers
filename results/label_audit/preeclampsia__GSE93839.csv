@@ -1,0 +1,7 @@
+text,label,count
+"noninfected preterm birth endovascular cytotrophoblasts # | human placenta, noninfected preterm birth | disease state: noninfected preterm birth",control,4
+"noninfected preterm birth invasive cytotrophoblasts # | human placenta, noninfected preterm birth | disease state: noninfected preterm birth",control,4
+"noninfected preterm birth syncytium # | human placenta, noninfected preterm birth | disease state: noninfected preterm birth",control,4
+"severe preeclampsia endovascular cytotrophoblasts # | human placenta, severe preeclampsia | disease state: severe preeclampsia",case,4
+"severe preeclampsia syncytium # | human placenta, severe preeclampsia | disease state: severe preeclampsia",case,4
+"severe preeclampsia invasive cytotrophoblasts # | human placenta, severe preeclampsia | disease state: severe preeclampsia",case,3

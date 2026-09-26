@@ -1,0 +1,6 @@
+text,label,count
+whole_blood-sle_p_nc_#-rep# | whole_blood-sle_p_nc_#,control,195
+whole_blood-hc_p_#-rep# | whole_blood-hc_p_#,control,164
+whole_blood-sle_p_pe_#-rep# | whole_blood-sle_p_pe_#,case,69
+whole_blood-sle_p_oc_#-rep# | whole_blood-sle_p_oc_#,DROP,61
+whole_blood-hc_np_#-rep# | whole_blood-hc_np_#,control,23

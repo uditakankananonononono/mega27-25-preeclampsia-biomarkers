@@ -1,0 +1,5 @@
+text,label,count
+lope_rep# | pooled controls who delivered at term | subject status: controls who delivered at term (># weeks) | lope_placental tissue | subject status: patients with late-onset (># weeks) preeclampsia (lope),DROP,8
+eope_rep# | pooled controls who delivered at term | subject status: controls who delivered at term (># weeks) | eope_placental tissue | subject status: patients with early-onset (<# weeks) preeclampsia (eope),DROP,7
+at_term_rep# | pooled controls who delivered at term | subject status: controls who delivered at term (># weeks) | delivery at term_placental tissue | subject status: controls who delivered at term (># weeks),control,5
+preterm_rep# | pooled controls who delivered at term | subject status: controls who delivered at term (># weeks) | delivery at preterm_placental tissue | subject status: controls who delivered preterm (<# weeks),control,5

@@ -1,0 +1,5 @@
+text,label,count
+"np#: placental tissue, control group, sample # | placental tissue,control group, sample # | disease state: control group",control,8
+"iugr#: placental tissue, intrauterine growth restriction, sample # | placental tissue,intrauterine growth restriction, sample # | disease state: intrauterine growth restriction",DROP,7
+"pe#: placental tissue, preeclampsia with severe features, sample # | placental tissue,preeclampsia with severe features, sample # | disease state: preeclampsia with severe features",case,7
+"pe-iugr#: placental tissue, intrauterine growth restriction associated with severe preeclampsia, sample # | placental tissue,intrauterine growth restriction associated with severe preeclampsia, sample # | disease state: intrauterine growth restriction associated with severe preeclampsia",case,6

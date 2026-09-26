@@ -1,0 +1,12 @@
+text,label,count
+p# ipsc fgf# | p# ipsc fgf#,DROP,2
+p# ipsc bmp# | p# ipsc bmp#,DROP,2
+p# ipsc bap | p# ipsc bap,DROP,2
+v# ipsc bap | v# ipsc bap,DROP,2
+h# esc fgf# | h# esc fgf#,DROP,1
+h# esc bap | h# esc bap,DROP,1
+h# esc bmp# [re-analysis] | h# esc bmp#,DROP,1
+v# ipsc bmp# [re-analysis] | v# ipsc bmp#,DROP,1
+v# ipsc bmp# | v# ipsc bmp#,DROP,1
+v# ipsc fgf# [re-analysis] | v# ipsc bap,DROP,1
+v# ipsc fgf# | v# ipsc fgf#,DROP,1

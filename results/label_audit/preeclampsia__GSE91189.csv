@@ -1,0 +1,4 @@
+text,label,count
+smooth chorion cytotrophoblasts from normal preterm birth # | human placenta,control,4
+smooth chorion cytotrophoblasts from second trimester # | human placenta,DROP,4
+smooth chorion cytotrophoblasts from severe preeclampsia # | human placenta,case,4

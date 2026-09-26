@@ -1,0 +1,5 @@
+text,label,count
+preterm preeclampsia placenta (#) | placenta | condition: preterm preeclampsia placenta,case,6
+preterm preeclampsia + hellp syndrome placenta (#) | placenta | condition: preterm preeclampsia + hellp syndrome placenta,case,6
+preterm control placenta (#) | placenta | condition: preterm control placenta,control,3
+preterm control placenta (kk#) | placenta | condition: preterm control placenta,control,2

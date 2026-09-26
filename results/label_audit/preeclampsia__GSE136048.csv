@@ -1,0 +1,5 @@
+text,label,count
+ptl# | cytotrophoblast | diagnosis: preterm birth (used as control),control,3
+accreta# | cytotrophoblast | diagnosis: placental accreta spectrum (pas),DROP,2
+increta# | cytotrophoblast | diagnosis: placental accreta spectrum (pas),DROP,2
+percreta# | cytotrophoblast | diagnosis: placental accreta spectrum (pas),DROP,2
