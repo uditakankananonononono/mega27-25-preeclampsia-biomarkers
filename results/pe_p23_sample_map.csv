@@ -1,0 +1,17 @@
+gsm,title,label,gestational_weeks
+GSM1089229,ChorionicVilli_EOPET_1 (expression),PE,31.7
+GSM1089230,ChorionicVilli_EOPET_2 (expression),PE,33.7
+GSM1089231,ChorionicVilli_EOPET_3 (expression),PE,32.0
+GSM1089232,ChorionicVilli_EOPET_4 (expression),PE,31.7
+GSM1089233,ChorionicVilli_EOPET_5 (expression),PE,34.0
+GSM1089234,ChorionicVilli_EOPET_6 (expression),PE,24.86
+GSM1089235,ChorionicVilli_EOPET_7 (expression),PE,32.42
+GSM1089236,ChorionicVilli_EOPET_8 (expression),PE,37.28
+GSM1089237,ChorionicVilli_CONTROL_1 (expression),control,25.0
+GSM1089238,ChorionicVilli_CONTROL_2 (expression),control,26.0
+GSM1089239,ChorionicVilli_CONTROL_3 (expression),control,31.42
+GSM1089240,ChorionicVilli_CONTROL_4 (expression),control,32.56
+GSM1089241,ChorionicVilli_CONTROL_5 (expression),control,32.86
+GSM1089242,ChorionicVilli_CONTROL_6 (expression),control,33.7
+GSM1089243,ChorionicVilli_CONTROL_7 (expression),control,36.0
+GSM1089244,ChorionicVilli_CONTROL_8 (expression),control,34.0

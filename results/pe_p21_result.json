@@ -1,0 +1,21 @@
+{
+  "gse": "GSE148241",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148241",
+  "n_case": 9,
+  "n_control": 30,
+  "genes_measured": 6,
+  "genes_down": 6,
+  "same_direction_bonferroni": [
+    "FES",
+    "GPAT3",
+    "FURIN",
+    "ZNF467"
+  ],
+  "descriptive_panel_support": true,
+  "n_raw_files": 39,
+  "exclusions": [
+    "GSM4458451/52 cord blood",
+    "PHNPR27B and PHNPR38B possible same-woman B samples"
+  ],
+  "interpretation": "2020 at-delivery early-onset severe PE versus normal placenta, postselected panel, not early pregnancy prediction or independently nominated discovery"
+}

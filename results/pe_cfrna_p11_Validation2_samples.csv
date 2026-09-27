@@ -1,0 +1,57 @@
+gsm,Sample_title,mother,label,Sample_characteristics_ch1_0,cohort
+GSM5768603,103651_1,103651,control,disease: control,Validation2
+GSM5768679,108445_1,108445,control,disease: control,Validation2
+GSM5768608,133247_1,133247,case,disease: pre-eclampsia,Validation2
+GSM5768450,133532_1,133532,control,disease: control,Validation2
+GSM5768596,138919_1,138919,control,disease: control,Validation2
+GSM5768621,141218_1,141218,control,disease: control,Validation2
+GSM5768606,149589_1,149589,control,disease: control,Validation2
+GSM5768670,161584_1,161584,control,disease: control,Validation2
+GSM5768454,166490_1,166490,case,disease: severe pre-eclampsia,Validation2
+GSM5768625,167961_1,167961,case,disease: severe pre-eclampsia,Validation2
+GSM5768677,169395_1,169395,control,disease: control,Validation2
+GSM5768611,170689_1,170689,control,disease: control,Validation2
+GSM5768614,178534_1,178534,case,disease: severe pre-eclampsia,Validation2
+GSM5768609,184204_1,184204,control,disease: control,Validation2
+GSM5768671,195443_1,195443,control,disease: control,Validation2
+GSM5768617,209564_1,209564,case,disease: pre-eclampsia,Validation2
+GSM5768466,212444_1,212444,control,disease: control,Validation2
+GSM5768629,229182_1,229182,control,disease: control,Validation2
+GSM5768459,250475_1,250475,control,disease: control,Validation2
+GSM5768593,253665_1,253665,control,disease: control,Validation2
+GSM5768682,253823_1,253823,control,disease: control,Validation2
+GSM5768613,254685_1,254685,control,disease: control,Validation2
+GSM5768451,260786_1,260786,case,disease: pre-eclampsia,Validation2
+GSM5768615,262245_1,262245,case,disease: severe pre-eclampsia,Validation2
+GSM5768655,267586_1,267586,case,disease: pre-eclampsia,Validation2
+GSM5768585,277408_1,277408,control,disease: control,Validation2
+GSM5768602,291886_1,291886,control,disease: control,Validation2
+GSM5768626,293901_1,293901,control,disease: control,Validation2
+GSM5768583,294171_1,294171,control,disease: control,Validation2
+GSM5768624,295748_1,295748,case,disease: severe pre-eclampsia,Validation2
+GSM5768673,301419_1,301419,case,disease: pre-eclampsia,Validation2
+GSM5768660,316949_1,316949,control,disease: control,Validation2
+GSM5768591,328020_1,328020,control,disease: control,Validation2
+GSM5768620,330152_1,330152,case,disease: severe pre-eclampsia,Validation2
+GSM5768684,334129_1,334129,control,disease: control,Validation2
+GSM5768461,339444_1,339444,control,disease: control,Validation2
+GSM5768605,346539_1,346539,control,disease: control,Validation2
+GSM5768667,349246_1,349246,case,disease: pre-eclampsia,Validation2
+GSM5768457,361175_1,361175,case,disease: pre-eclampsia,Validation2
+GSM5768460,397120_1,397120,control,disease: control,Validation2
+GSM5768662,406636_1,406636,control,disease: control,Validation2
+GSM5768584,406755_1,406755,control,disease: control,Validation2
+GSM5768448,406813_1,406813,control,disease: control,Validation2
+GSM5768616,410199_1,410199,case,disease: severe pre-eclampsia,Validation2
+GSM5768595,415120_1,415120,control,disease: control,Validation2
+GSM5768589,443078_1,443078,control,disease: control,Validation2
+GSM5768627,455648_1,455648,control,disease: control,Validation2
+GSM5768458,455697_1,455697,control,disease: control,Validation2
+GSM5768599,456050_1,456050,control,disease: control,Validation2
+GSM5768447,472330_1,472330,case,disease: pre-eclampsia,Validation2
+GSM5768618,475571_1,475571,case,disease: pre-eclampsia,Validation2
+GSM5768464,477841_1,477841,control,disease: control,Validation2
+GSM5768586,480303_1,480303,control,disease: control,Validation2
+GSM5768587,485310_1,485310,control,disease: control,Validation2
+GSM5768463,490522_1,490522,control,disease: control,Validation2
+GSM5768597,490545_1,490545,control,disease: control,Validation2

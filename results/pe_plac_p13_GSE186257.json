@@ -1,0 +1,15 @@
+{
+  "gse": "GSE186257",
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE186nnn/GSE186257/suppl/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz",
+  "sha256": "5ec95f4efab28a595ea3a7b3ab89c59d1c46be700a8a4f021a4290791a68975a",
+  "n_case": 26,
+  "n_control": 18,
+  "measured": 6,
+  "down": 6,
+  "bonferroni_down_genes": [
+    "FURIN",
+    "ZNF467"
+  ],
+  "matrix_kind": "DESeq2-normalized filtered, transformed log2(value+1); not raw counts",
+  "single_study_panel_pass": true
+}

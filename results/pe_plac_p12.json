@@ -1,0 +1,14 @@
+{
+  "gse": "GSE190971",
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190971/suppl/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz",
+  "sha256": "d2c794f403c5905995b11da480ac10185b4f388fc128b53e5451e27cfab8d831",
+  "n_case": 7,
+  "n_control": 6,
+  "measured": 6,
+  "down": 5,
+  "bonferroni_down_genes": [
+    "FES"
+  ],
+  "registered_panel_pass": false,
+  "independence_caveat": "PLAC is one arm in a 41-GSM three-arm series; 10K and 150K share participant tokens. Term placenta tissue is not first-trimester maternal screening."
+}

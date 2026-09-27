@@ -1,0 +1,50 @@
+gsm,Sample_title,mother,label,Sample_characteristics_ch1_0,cohort
+GSM5768528,505372_1,505372,control,disease: control,Discovery
+GSM5768388,515494_1,515494,case,disease: pre-eclampsia,Discovery
+GSM5768332,523257_1,523257,case,disease: pre-eclampsia,Discovery
+GSM5768494,534069_1,534069,control,disease: control,Discovery
+GSM5768681,549101_1,549101,control,disease: control,Discovery
+GSM5768517,579493_1,579493,control,disease: control,Discovery
+GSM5768640,594098_1,594098,control,disease: control,Discovery
+GSM5768364,605858_1,605858,control,disease: control,Discovery
+GSM5768642,615064_1,615064,control,disease: control,Discovery
+GSM5768534,625950_1,625950,case,disease: pre-eclampsia,Discovery
+GSM5768500,636361_1,636361,control,disease: control,Discovery
+GSM5768386,637580_1,637580,case,disease: severe pre-eclampsia,Discovery
+GSM5768323,662256_1,662256,case,disease: pre-eclampsia,Discovery
+GSM5768471,663288_1,663288,control,disease: control,Discovery
+GSM5768479,668974_1,668974,control,disease: control,Discovery
+GSM5768433,678649_1,678649,control,disease: control,Discovery
+GSM5768452,692077_1,692077,control,disease: control,Discovery
+GSM5768688,698019_1,698019,control,disease: control,Discovery
+GSM5768633,706816_1,706816,control,disease: control,Discovery
+GSM5768635,737046_1,737046,case,disease: severe pre-eclampsia,Discovery
+GSM5768650,743122_1,743122,control,disease: control,Discovery
+GSM5768699,773477_1,773477,control,disease: control,Discovery
+GSM5768324,777827_1,777827,case,disease: severe pre-eclampsia,Discovery
+GSM5768488,783078_1,783078,control,disease: control,Discovery
+GSM5768716,783236_1,783236,case,disease: pre-eclampsia,Discovery
+GSM5768484,786768_1,786768,control,disease: control,Discovery
+GSM5768514,792176_1,792176,control,disease: control,Discovery
+GSM5768710,809660_1,809660,case,disease: severe pre-eclampsia,Discovery
+GSM5768376,825158_1,825158,control,disease: control,Discovery
+GSM5768653,826701_1,826701,control,disease: control,Discovery
+GSM5768383,835749_1,835749,case,disease: pre-eclampsia,Discovery
+GSM5768347,839621_1,839621,case,disease: severe pre-eclampsia,Discovery
+GSM5768373,858366_1,858366,control,disease: control,Discovery
+GSM5768340,862314_1,862314,control,disease: control,Discovery
+GSM5768520,872878_1,872878,control,disease: control,Discovery
+GSM5768378,890932_1,890932,control,disease: control,Discovery
+GSM5768476,896869_1,896869,control,disease: control,Discovery
+GSM5768693,906787_1,906787,control,disease: control,Discovery
+GSM5768477,928186_1,928186,control,disease: control,Discovery
+GSM5768350,930841_1,930841,control,disease: control,Discovery
+GSM5768321,931746_1,931746,control,disease: control,Discovery
+GSM5768487,943952_1,943952,case,disease: severe pre-eclampsia,Discovery
+GSM5768319,944838_1,944838,control,disease: control,Discovery
+GSM5768612,946772_1,946772,control,disease: control,Discovery
+GSM5768336,947956_1,947956,control,disease: control,Discovery
+GSM5768492,965096_1,965096,control,disease: control,Discovery
+GSM5768498,972839_1,972839,control,disease: control,Discovery
+GSM5768475,977018_1,977018,case,disease: severe pre-eclampsia,Discovery
+GSM5768509,988719_1,988719,control,disease: control,Discovery

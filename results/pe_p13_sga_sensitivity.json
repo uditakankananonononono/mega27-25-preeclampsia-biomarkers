@@ -1,0 +1,24 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186257",
+  "SGA_table": {
+    "no": {
+      "PE": 1,
+      "control": 10
+    },
+    "yes": {
+      "PE": 25,
+      "control": 8
+    }
+  },
+  "sex_table": {
+    "female": {
+      "PE": 14,
+      "control": 6
+    },
+    "male": {
+      "PE": 12,
+      "control": 12
+    }
+  },
+  "note": "Post-outcome descriptive within-study strata, not P13 registered primary, not independent replication. Only one PE non-SGA so non-SGA PE contrast not estimable. SGA is possibly downstream of PE; conditioning on it does not causally adjust."
+}

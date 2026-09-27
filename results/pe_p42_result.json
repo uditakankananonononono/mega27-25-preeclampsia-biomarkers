@@ -1,0 +1,66 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284329",
+  "source_sha256": "f3968cba1cb9fc1d4a76f3373f40a0a2be3ec8952015ac6bd2b6ab465f8033f1",
+  "n_primary_case": 3,
+  "n_primary_control": 5,
+  "n_excluded_GDM": 5,
+  "n_excluded_PG": 4,
+  "n_unique_mapped_genes": 26071,
+  "n_effect_genes": 14003,
+  "n_fixed_measured": 6,
+  "n_fixed_down": 3,
+  "n_corrected_down": 0,
+  "registered_descriptive_support": false,
+  "ambiguous_ensembl_ids": 3,
+  "genes": [
+    {
+      "gene": "FES",
+      "status": "measured",
+      "g": 1.2405406727516088,
+      "v": 0.6295171558802717,
+      "welch_p": 0.18578352016627916,
+      "down": false
+    },
+    {
+      "gene": "GPAT3",
+      "status": "measured",
+      "g": -0.840453723700634,
+      "v": 0.5774809871884746,
+      "welch_p": 0.28191308470864934,
+      "down": true
+    },
+    {
+      "gene": "FURIN",
+      "status": "measured",
+      "g": 0.16812281013394706,
+      "v": 0.5350999132887918,
+      "welch_p": 0.8168988469789429,
+      "down": false
+    },
+    {
+      "gene": "GRAMD1A",
+      "status": "measured",
+      "g": 0.04542218306653563,
+      "v": 0.5334622817529915,
+      "welch_p": 0.9446328906813102,
+      "down": false
+    },
+    {
+      "gene": "ZNF467",
+      "status": "measured",
+      "g": -0.04762943695567001,
+      "v": 0.533475118537378,
+      "welch_p": 0.9482735297073317,
+      "down": true
+    },
+    {
+      "gene": "LPGAT1",
+      "status": "measured",
+      "g": -0.6528951694255374,
+      "v": 0.5599753397245334,
+      "welch_p": 0.38135131907562286,
+      "down": true
+    }
+  ],
+  "limitation": "Only 3 pure-PE vs 5 control PBMC persons, late-pregnancy specimen, old postselected panel, not early CVS prediction or published benchmark."
+}

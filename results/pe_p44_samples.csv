@@ -1,0 +1,13 @@
+gsm,title,group,column,sha256,url
+GSM8579735,N1,N,N1:FPKM,b558af7634a1192ab179603b95fbace65a5c743a33fea2989465ae489dc4e02c,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579735&targ=self&form=text&view=full
+GSM8579736,N2,N,N2:FPKM,1ba309065a05bcc249475198cefe2bdc4f02df8041ca00ba42ba5b593db599c7,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579736&targ=self&form=text&view=full
+GSM8579737,N3,N,N3:FPKM,4f001dc3467ab416309d4ce697aff8c48bb3d2b8b3765f9a93f5c74007d9e6d9,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579737&targ=self&form=text&view=full
+GSM8579738,N4,N,N4:FPKM,66319d1542a289fe65f1e792a677cf70f010088d40a882201a497ff88bd0ef26,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579738&targ=self&form=text&view=full
+GSM8579739,N5,N,N5:FPKM,adbbf609f3ce4ceb31535ec3d47e8feacdaf3338967f1645194e484ebf74396f,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579739&targ=self&form=text&view=full
+GSM8579740,N6,N,N6:FPKM,cf5c6122d064d52c24a86aa0f0206c31e853343d0142d4fba469825f06443825,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579740&targ=self&form=text&view=full
+GSM8579741,PE1,PE,PE1:FPKM,69eaa92546e63cb7ba71733613400b46c05dc0e4a51cd886daf311ce18845594,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579741&targ=self&form=text&view=full
+GSM8579742,PE2,PE,PE2:FPKM,1c5e6c3649c14e0f6929aecd6bfe9c1b8296f8b050b3f91252c46d12029f0e40,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579742&targ=self&form=text&view=full
+GSM8579743,PE3,PE,PE3:FPKM,a7cbee986447f820eb6c5bb7e4217e049c6ba0559ef33dea9efc6c8b3cf1580a,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579743&targ=self&form=text&view=full
+GSM8579744,PE4,PE,PE4:FPKM,7603e267eb44aa493b39a790068080986a9aedf1241dad1285fd903e28399f31,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579744&targ=self&form=text&view=full
+GSM8579745,PE5,PE,PE5:FPKM,43cb39259a048b229c4ef40f4fb01aed08fb5782fe81feba79889423180b462c,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579745&targ=self&form=text&view=full
+GSM8579746,PE6,PE,PE6:FPKM,6848d25cb9a983f6a6e4c948cddaee81b6a330d1e868fe2f6462a9373eeab6bc,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8579746&targ=self&form=text&view=full

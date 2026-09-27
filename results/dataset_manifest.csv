@@ -1,0 +1,395 @@
+accession,source,role
+GSE10588,GEO series,preeclampsia:discovery
+GSE114691,GEO series,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs"
+GSE143953,GEO series,"preeclampsia:P19 processed eight-sample cohort, panel failed"
+GSE147776,GEO series,preeclampsia:validation
+GSE148241,GEO series and individual raw-count files,preeclampsia:P21 severe EOSPE placenta fixed-panel diagnostic
+GSE149440,GEO series,preeclampsia:validation
+GSE177049,GEO series and FPKM gene-expression workbook,preeclampsia:P22 five EOPE versus five preterm-birth placenta
+GSE186257,GEO series,preeclampsia:P13 placental 44 people
+GSE186819,GEO series,preeclampsia:validation
+GSE190639,GEO series,preeclampsia:validation
+GSE190971,GEO series,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs"
+GSE192902,GEO cfRNA postQC gene counts,"preeclampsia:P11 first prenatal draw, three nested cohorts, failed panel transport"
+GSE204835,GEO series supplementary matrix,preeclampsia:fresh_validation (placenta (paraffin-embedded))
+GSE24129,GEO series,preeclampsia:discovery
+GSE25906,GEO series,preeclampsia:discovery
+GSE272342,GEO RNA-seq gene counts,preeclampsia:P10 twin pregnancy-level negative transport
+GSE296973,GEO series supplementary matrix,preeclampsia:fresh_validation (peripheral blood)
+GSE30186,GEO series,preeclampsia:discovery
+GSE303840,GEO series supplementary matrix,preeclampsia:fresh_validation (placenta)
+GSE306864,GEO series supplementary matrix,preeclampsia:fresh_validation (chorionic villus)
+GSE35574,GEO series,preeclampsia:discovery
+GSE43942,GEO series,preeclampsia:discovery
+GSE48424,GEO series,preeclampsia:discovery
+GSE54400,GEO series,preeclampsia:discovery
+GSE54618,GEO series,preeclampsia:discovery
+GSE60438,GEO series,preeclampsia:discovery
+GSE66273,GEO series,preeclampsia:discovery
+GSE73374,GEO series,preeclampsia:discovery
+GSE75010,GEO series,preeclampsia:discovery
+GSE91189,GEO series,preeclampsia:discovery
+GSE93839,GEO series,preeclampsia:discovery
+GSE94643,GEO series,preeclampsia:validation
+GSM3147325,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147326,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147327,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147328,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147329,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147330,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147331,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147332,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147333,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147334,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147335,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147336,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147337,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147338,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147339,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147340,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147341,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147342,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147343,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147344,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147345,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147346,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147347,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147348,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147349,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147350,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147351,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147352,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147353,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147354,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147355,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147356,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147357,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147358,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147359,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147360,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147361,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147362,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147363,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147364,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM3147365,GEO GSM mapped count/normalized matrix record,"preeclampsia:P13 PE-only vs controls, 41 of 79 series GSMs; nested in GSE114691"
+GSM4277245,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277246,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277247,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277248,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277249,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277250,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277251,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4277252,GEO GSM mapped FPKM record,preeclampsia:P19 used expression column in GSE143953; eight records nested in one study
+GSM4458410,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458411,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458412,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458413,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458414,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458415,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458416,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458417,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458418,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458419,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458420,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458421,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458422,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458423,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458424,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458425,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458426,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458427,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458428,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458429,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458430,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458431,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458432,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458433,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458434,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458435,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458437,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458438,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458439,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458440,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458441,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458442,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458443,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458444,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458445,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458446,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458447,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458449,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM4458450,GEO sample and raw-count file,preeclampsia:GSE148241:P21 analyzed placenta
+GSM5373514,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373516,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373518,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373520,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373522,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373524,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373526,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373528,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373530,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5373532,GEO RNA-seq sample and FPKM workbook,preeclampsia:GSE177049:P22 analyzed placenta
+GSM5641743,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641744,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641745,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641746,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641747,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641748,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641749,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641750,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641751,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641752,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641753,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641754,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641755,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641756,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641757,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641758,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641759,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641760,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641761,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641762,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641763,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641764,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641765,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641766,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641767,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641768,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641769,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641770,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641771,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641772,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641773,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641774,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641775,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641776,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641777,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641778,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641779,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641780,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641781,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641782,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641783,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641784,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641785,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5641786,GEO GSM mapped count/normalized matrix record,preeclampsia:P13 placental 44 people; nested in GSE186257
+GSM5736672,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736673,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736674,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736675,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736676,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736677,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736678,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736679,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736680,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736681,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736682,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736683,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5736684,GEO GSM mapped count/normalized matrix record,"preeclampsia:P12 PLAC 13 people, 13 of 41 series GSMs; nested in GSE190971"
+GSM5768319,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768321,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768323,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768324,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768332,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768336,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768340,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768347,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768350,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768353,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768358,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768363,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768364,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768370,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768373,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768376,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768378,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768383,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768386,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768388,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768398,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768401,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768404,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768408,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768411,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768414,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768419,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768429,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768433,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768439,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768447,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768448,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768450,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768451,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768452,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768454,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768457,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768458,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768459,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768460,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768461,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768463,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768464,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768466,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768471,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768475,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768476,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768477,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768479,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768484,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768487,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768488,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768492,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768494,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768498,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768500,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768509,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768514,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768517,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768520,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768528,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768534,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768541,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768544,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768553,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768556,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768561,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768565,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768571,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768574,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768576,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768583,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768584,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768585,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768586,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768587,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768589,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768591,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768593,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768595,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768596,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768597,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768599,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768602,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768603,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768605,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768606,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768608,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768609,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768611,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768612,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768613,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768614,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768615,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768616,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768617,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768618,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768620,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768621,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768624,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768625,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768626,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768627,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768629,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768633,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768635,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768640,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768642,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768650,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768653,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768655,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768660,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768662,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768667,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768670,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768671,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768673,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768677,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768679,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768681,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768682,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768684,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768688,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768693,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768699,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768710,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM5768716,GEO GSM RNA-seq record and postQC count column,preeclampsia:P11 one first-trimester draw per mother; nested in GSE192902
+GSM6198397,GEO sample full-text record,preeclampsia:GSE204835:label_identity_audit
+GSM6198398,GEO sample full-text record,preeclampsia:GSE204835:label_identity_audit
+GSM6198411,GEO sample full-text record,preeclampsia:GSE204835:label_identity_audit
+GSM6198412,GEO sample full-text record,preeclampsia:GSE204835:label_identity_audit
+GSM8398792,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398793,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398794,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398795,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398796,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398797,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398798,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398799,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398800,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398801,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398802,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398803,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398804,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398805,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398806,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398807,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398808,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398809,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398810,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398811,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398812,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398813,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398814,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398815,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398816,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398817,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398818,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398819,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398820,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398821,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398822,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8398823,GEO GSM count record in GSE272342_RAW.tar,"preeclampsia:P10 nested twin sample used; 32 GSM, 16 pregnancies"
+GSM8980951,GEO sample full-text record,preeclampsia:GSE296973:label_identity_audit
+GSM8980952,GEO sample full-text record,preeclampsia:GSE296973:label_identity_audit
+GSM8980961,GEO sample full-text record,preeclampsia:GSE296973:label_identity_audit
+GSM8980962,GEO sample full-text record,preeclampsia:GSE296973:label_identity_audit
+GSM9136811,GEO sample full-text record,preeclampsia:GSE303840:label_identity_audit
+GSM9136812,GEO sample full-text record,preeclampsia:GSE303840:label_identity_audit
+GSM9136817,GEO sample full-text record,preeclampsia:GSE303840:label_identity_audit
+GSM9136818,GEO sample full-text record,preeclampsia:GSE303840:label_identity_audit
+GSM9210996,GEO sample full-text record,preeclampsia:GSE306864:label_identity_audit
+GSM9210997,GEO sample full-text record,preeclampsia:GSE306864:label_identity_audit
+GSM9210998,GEO sample full-text record,preeclampsia:GSE306864:label_identity_audit
+GSM9211004,GEO sample full-text record,preeclampsia:GSE306864:label_identity_audit
+MONDO_0005081,Open Targets disease associations,known genes preeclampsia
+GSE284329,GEO separately fetched series and raw count matrix,preeclampsia:P42 pure PE/CTL late PBMC stress; GDM/PG excluded primary
+GSM8682382,GEO individually fetched GSM full-text record,"preeclampsia:P42 CTL mapped matrix column; nested in GSE284329, not independent study"
+GSM8682383,GEO individually fetched GSM full-text record,"preeclampsia:P42 CTL mapped matrix column; nested in GSE284329, not independent study"
+GSM8682384,GEO individually fetched GSM full-text record,"preeclampsia:P42 CTL mapped matrix column; nested in GSE284329, not independent study"
+GSM8682385,GEO individually fetched GSM full-text record,"preeclampsia:P42 CTL mapped matrix column; nested in GSE284329, not independent study"
+GSM8682386,GEO individually fetched GSM full-text record,"preeclampsia:P42 CTL mapped matrix column; nested in GSE284329, not independent study"
+GSM8682387,GEO individually fetched GSM full-text record,"preeclampsia:P42 GDM mapped matrix column; nested in GSE284329, not independent study"
+GSM8682388,GEO individually fetched GSM full-text record,"preeclampsia:P42 GDM mapped matrix column; nested in GSE284329, not independent study"
+GSM8682389,GEO individually fetched GSM full-text record,"preeclampsia:P42 GDM mapped matrix column; nested in GSE284329, not independent study"
+GSM8682390,GEO individually fetched GSM full-text record,"preeclampsia:P42 GDM mapped matrix column; nested in GSE284329, not independent study"
+GSM8682391,GEO individually fetched GSM full-text record,"preeclampsia:P42 GDM mapped matrix column; nested in GSE284329, not independent study"
+GSM8682392,GEO individually fetched GSM full-text record,"preeclampsia:P42 PE mapped matrix column; nested in GSE284329, not independent study"
+GSM8682393,GEO individually fetched GSM full-text record,"preeclampsia:P42 PE mapped matrix column; nested in GSE284329, not independent study"
+GSM8682394,GEO individually fetched GSM full-text record,"preeclampsia:P42 PE mapped matrix column; nested in GSE284329, not independent study"
+GSM8682395,GEO individually fetched GSM full-text record,"preeclampsia:P42 PG mapped matrix column; nested in GSE284329, not independent study"
+GSM8682396,GEO individually fetched GSM full-text record,"preeclampsia:P42 PG mapped matrix column; nested in GSE284329, not independent study"
+GSM8682397,GEO individually fetched GSM full-text record,"preeclampsia:P42 PG mapped matrix column; nested in GSE284329, not independent study"
+GSM8682398,GEO individually fetched GSM full-text record,"preeclampsia:P42 PG mapped matrix column; nested in GSE284329, not independent study"
+GSE279757,GEO separately fetched series and FPKM workbook,"preeclampsia:P44 archived 6/6 placental transport, at-delivery"
+GSM8579735,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579736,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579737,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579738,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579739,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579740,GEO individually fetched GSM full-text record,preeclampsia:P44 N exact FPKM column; nested in GSE279757
+GSM8579741,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757
+GSM8579742,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757
+GSM8579743,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757
+GSM8579744,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757
+GSM8579745,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757
+GSM8579746,GEO individually fetched GSM full-text record,preeclampsia:P44 PE exact FPKM column; nested in GSE279757

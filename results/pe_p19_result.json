@@ -1,0 +1,12 @@
+{
+  "gse": "GSE143953",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143953",
+  "n_case": 4,
+  "n_control": 4,
+  "genes_measured": 6,
+  "genes_down": 5,
+  "same_direction_bonferroni": [],
+  "descriptive_panel_support": false,
+  "workbook_sha256": "42e900944734b1b461e86ff28c94c0767fae95fb74d97c52f534ab3757fa1136",
+  "interpretation": "Late placenta, historical small series, different from P9 early chorionic villi; no novel biomarker or published comparator"
+}

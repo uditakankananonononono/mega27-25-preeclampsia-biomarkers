@@ -1,0 +1,62 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE279757",
+  "source_sha256": "05fc9d8d9235ef4a9c2ec2060790c5a078121e0a94f8006035bb3456c37c42ca",
+  "n_case": 6,
+  "n_control": 6,
+  "n_source_ensg_rows": 19966,
+  "n_unique_mapped_genes": 19361,
+  "n_effect_genes": 8944,
+  "n_fixed_measured": 5,
+  "n_down": 0,
+  "n_corrected_down": 0,
+  "registered_descriptive_support": false,
+  "ambiguous_ensembl_ids": 3,
+  "duplicate_gene_symbols_excluded": 0,
+  "genes": [
+    {
+      "gene": "FES",
+      "status": "measured",
+      "g": 2.228045962998444,
+      "v": 0.5401745338847359,
+      "welch_p": 0.0019143899103078509,
+      "down": false
+    },
+    {
+      "gene": "GPAT3",
+      "status": "not uniquely mapped or expression filtered"
+    },
+    {
+      "gene": "FURIN",
+      "status": "measured",
+      "g": 2.2229035323903594,
+      "v": 0.5392208380963974,
+      "welch_p": 0.00198197980523617,
+      "down": false
+    },
+    {
+      "gene": "GRAMD1A",
+      "status": "measured",
+      "g": 3.344310280943877,
+      "v": 0.799350468967788,
+      "welch_p": 0.00012105129308761454,
+      "down": false
+    },
+    {
+      "gene": "ZNF467",
+      "status": "measured",
+      "g": 2.83028029292821,
+      "v": 0.6671036056890747,
+      "welch_p": 0.0003993687664845726,
+      "down": false
+    },
+    {
+      "gene": "LPGAT1",
+      "status": "measured",
+      "g": 3.0185976694434142,
+      "v": 0.7129971620820504,
+      "welch_p": 0.00028275563128887885,
+      "down": false
+    }
+  ],
+  "limitation": "Six samples per arm, archived placental FPKM, at-delivery stage and selected panel do not prove early prediction, clinical utility, novel mechanism or benchmark superiority."
+}

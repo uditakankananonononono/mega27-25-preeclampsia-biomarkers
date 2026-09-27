@@ -1,0 +1,44 @@
+gsm,title,status,tissue,url,use
+GSM4458410,PHPR08,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458410/suppl/GSM4458410_PHPR08.raw.counts.txt.gz,True
+GSM4458411,PHPR14,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458411/suppl/GSM4458411_PHPR14.raw.counts.txt.gz,True
+GSM4458412,PHPR19,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458412/suppl/GSM4458412_PHPR19.raw.counts.txt.gz,True
+GSM4458413,PHPR26,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458413/suppl/GSM4458413_PHPR26.raw.counts.txt.gz,True
+GSM4458414,PHPR30,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458414/suppl/GSM4458414_PHPR30.raw.counts.txt.gz,True
+GSM4458415,PHPR32,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458415/suppl/GSM4458415_PHPR32.raw.counts.txt.gz,True
+GSM4458416,PHPR33,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458416/suppl/GSM4458416_PHPR33.raw.counts.txt.gz,True
+GSM4458417,PHPR37,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458417/suppl/GSM4458417_PHPR37.raw.counts.txt.gz,True
+GSM4458418,PHPR42,early-onset severe preeclampsia (EOSPE),Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458418/suppl/GSM4458418_PHPR42.raw.counts.txt.gz,True
+GSM4458419,PHNPR03,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458419/suppl/GSM4458419_PHNPR03.raw.counts.txt.gz,True
+GSM4458420,PHNPR06,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458420/suppl/GSM4458420_PHNPR06.raw.counts.txt.gz,True
+GSM4458421,PHNPR08,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458421/suppl/GSM4458421_PHNPR08.raw.counts.txt.gz,True
+GSM4458422,PHNPR09,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458422/suppl/GSM4458422_PHNPR09.raw.counts.txt.gz,True
+GSM4458423,PHNPR10,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458423/suppl/GSM4458423_PHNPR10.raw.counts.txt.gz,True
+GSM4458424,PHNPR11,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458424/suppl/GSM4458424_PHNPR11.raw.counts.txt.gz,True
+GSM4458425,PHNPR14,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458425/suppl/GSM4458425_PHNPR14.raw.counts.txt.gz,True
+GSM4458426,PHNPR16,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458426/suppl/GSM4458426_PHNPR16.raw.counts.txt.gz,True
+GSM4458427,PHNPR17,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458427/suppl/GSM4458427_PHNPR17.raw.counts.txt.gz,True
+GSM4458428,PHNPR18,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458428/suppl/GSM4458428_PHNPR18.raw.counts.txt.gz,True
+GSM4458429,PHNPR19,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458429/suppl/GSM4458429_PHNPR19.raw.counts.txt.gz,True
+GSM4458430,PHNPR21,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458430/suppl/GSM4458430_PHNPR21.raw.counts.txt.gz,True
+GSM4458431,PHNPR23,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458431/suppl/GSM4458431_PHNPR23.raw.counts.txt.gz,True
+GSM4458432,PHNPR24,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458432/suppl/GSM4458432_PHNPR24.raw.counts.txt.gz,True
+GSM4458433,PHNPR25,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458433/suppl/GSM4458433_PHNPR25.raw.counts.txt.gz,True
+GSM4458434,PHNPR26,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458434/suppl/GSM4458434_PHNPR26.raw.counts.txt.gz,True
+GSM4458435,PHNPR27A,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458435/suppl/GSM4458435_PHNPR27A.raw.counts.txt.gz,True
+GSM4458436,PHNPR27B,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458436/suppl/GSM4458436_PHNPR27B.raw.counts.txt.gz,False
+GSM4458437,PHNPR28,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458437/suppl/GSM4458437_PHNPR28.raw.counts.txt.gz,True
+GSM4458438,PHNPR29,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458438/suppl/GSM4458438_PHNPR29.raw.counts.txt.gz,True
+GSM4458439,PHNPR30,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458439/suppl/GSM4458439_PHNPR30.raw.counts.txt.gz,True
+GSM4458440,PHNPR31,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458440/suppl/GSM4458440_PHNPR31.raw.counts.txt.gz,True
+GSM4458441,PHNPR32,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458441/suppl/GSM4458441_PHNPR32.raw.counts.txt.gz,True
+GSM4458442,PHNPR33,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458442/suppl/GSM4458442_PHNPR33.raw.counts.txt.gz,True
+GSM4458443,PHNPR34,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458443/suppl/GSM4458443_PHNPR34.raw.counts.txt.gz,True
+GSM4458444,PHNPR35,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458444/suppl/GSM4458444_PHNPR35.raw.counts.txt.gz,True
+GSM4458445,PHNPR36,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458445/suppl/GSM4458445_PHNPR36.raw.counts.txt.gz,True
+GSM4458446,PHNPR37,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458446/suppl/GSM4458446_PHNPR37.raw.counts.txt.gz,True
+GSM4458447,PHNPR38A,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458447/suppl/GSM4458447_PHNPR38A.raw.counts.txt.gz,True
+GSM4458448,PHNPR38B,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458448/suppl/GSM4458448_PHNPR38B.raw.counts.txt.gz,False
+GSM4458449,PHNPR41,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458449/suppl/GSM4458449_PHNPR41.raw.counts.txt.gz,True
+GSM4458450,PHNPR43,Normal,Placenta,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458450/suppl/GSM4458450_PHNPR43.raw.counts.txt.gz,True
+GSM4458451,UCB1,Normal,Umbilical Cord Blood,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458451/suppl/GSM4458451_UCB1.raw.counts.txt.gz,False
+GSM4458452,UCB2,Normal,Umbilical Cord Blood,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4458nnn/GSM4458452/suppl/GSM4458452_UCB2.raw.counts.txt.gz,False

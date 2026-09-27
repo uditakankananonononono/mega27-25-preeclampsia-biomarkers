@@ -1,0 +1,18 @@
+{
+  "library_total_case_min": 13736518,
+  "library_total_case_max": 24217785,
+  "library_total_control_min": 13029917,
+  "library_total_control_max": 25214968,
+  "library_total_mannwhitney_p": 0.14302671527199873,
+  "loe_case_9": [
+    "GSM4458410",
+    "GSM4458411",
+    "GSM4458412",
+    "GSM4458413",
+    "GSM4458414",
+    "GSM4458415",
+    "GSM4458416",
+    "GSM4458417",
+    "GSM4458418"
+  ]
+}

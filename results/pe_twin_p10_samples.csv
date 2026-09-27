@@ -1,0 +1,33 @@
+gsm,Sample_title,Sample_characteristics_ch1_1,pregnancy,label
+GSM8398792,"D PE, 1A, Villous Tissue",clinical group: preeclampsia,1,case
+GSM8398793,"D PE, 1B, Villous Tissue",clinical group: preeclampsia,1,case
+GSM8398794,"M PE, 2A1, Villous Tissue",clinical group: preeclampsia,2,case
+GSM8398795,"M PE, 2A2, Villous Tissue",clinical group: preeclampsia,2,case
+GSM8398796,"D PE, 3A, Villous Tissue",clinical group: preeclampsia,3,case
+GSM8398797,"D PE, 3B, Villous Tissue",clinical group: preeclampsia,3,case
+GSM8398798,"D PE, 4A, Villous Tissue",clinical group: preeclampsia,4,case
+GSM8398799,"D PE, 4B, Villous Tissue",clinical group: preeclampsia,4,case
+GSM8398800,"D No PE, 5A, Villous Tissue",clinical group: normotensive,5,control
+GSM8398801,"D No PE, 5B, Villous Tissue",clinical group: normotensive,5,control
+GSM8398802,"D No PE, 6A, Villous Tissue",clinical group: normotensive,6,control
+GSM8398803,"D No PE, 6B, Villous Tissue",clinical group: normotensive,6,control
+GSM8398804,"D No PE, 7A, Villous Tissue",clinical group: normotensive,7,control
+GSM8398805,"D No PE, 7B, Villous Tissue",clinical group: normotensive,7,control
+GSM8398806,"D No PE, 8A, Villous Tissue",clinical group: normotensive,8,control
+GSM8398807,"D No PE, 8B, Villous Tissue",clinical group: normotensive,8,control
+GSM8398808,"D PE, 9A, Villous Tissue",clinical group: preeclampsia,9,case
+GSM8398809,"D PE, 9B, Villous Tissue",clinical group: preeclampsia,9,case
+GSM8398810,"D No PE, 10A, Villous Tissue",clinical group: normotensive,10,control
+GSM8398811,"D No PE, 10B, Villous Tissue",clinical group: normotensive,10,control
+GSM8398812,"D No PE, 11A, Villous Tissue",clinical group: normotensive,11,control
+GSM8398813,"D No PE, 11B, Villous Tissue",clinical group: normotensive,11,control
+GSM8398814,"M No PE, 12A1, Villous Tissue",clinical group: normotensive,12,control
+GSM8398815,"M No PE, 12A2, Villous Tissue",clinical group: normotensive,12,control
+GSM8398816,"M PE, 13A1, Villous Tissue",clinical group: preeclampsia,13,case
+GSM8398817,"M PE, 13A2, Villous Tissue",clinical group: preeclampsia,13,case
+GSM8398818,"D PE, 14A, Villous Tissue",clinical group: preeclampsia,14,case
+GSM8398819,"D PE, 14B, Villous Tissue",clinical group: preeclampsia,14,case
+GSM8398820,"D No PE, 15A, Villous Tissue",clinical group: normotensive,15,control
+GSM8398821,"D No PE, 15B, Villous Tissue",clinical group: normotensive,15,control
+GSM8398822,"M No PE, 16A1, Villous Tissue",clinical group: normotensive,16,control
+GSM8398823,"M No PE, 16A2, Villous Tissue",clinical group: normotensive,16,control

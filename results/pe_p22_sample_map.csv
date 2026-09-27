@@ -1,0 +1,21 @@
+gsm,title,disease,assay,token
+GSM5373514,PE1 - RNA Sequencing,early-onset preeclampsia,RNA,PE1
+GSM5373515,PE1 - miRNA Sequencing,early-onset preeclampsia,miRNA,PE1
+GSM5373516,PE2 - RNA Sequencing,early-onset preeclampsia,RNA,PE2
+GSM5373517,PE2 - miRNA Sequencing,early-onset preeclampsia,miRNA,PE2
+GSM5373518,PE3 - RNA Sequencing,early-onset preeclampsia,RNA,PE3
+GSM5373519,PE3 - miRNA Sequencing,early-onset preeclampsia,miRNA,PE3
+GSM5373520,PE4 - RNA Sequencing,early-onset preeclampsia,RNA,PE4
+GSM5373521,PE4 - miRNA Sequencing,early-onset preeclampsia,miRNA,PE4
+GSM5373522,PE5 - RNA Sequencing,early-onset preeclampsia,RNA,PE5
+GSM5373523,PE5 - miRNA Sequencing,early-onset preeclampsia,miRNA,PE5
+GSM5373524,N1 - RNA Sequencing,preterm birth,RNA,N1
+GSM5373525,N1 - miRNA Sequencing,preterm birth,miRNA,N1
+GSM5373526,N2 - RNA Sequencing,preterm birth,RNA,N2
+GSM5373527,N2 - miRNA Sequencing,preterm birth,miRNA,N2
+GSM5373528,N3 - RNA Sequencing,preterm birth,RNA,N3
+GSM5373529,N3 - miRNA Sequencing,preterm birth,miRNA,N3
+GSM5373530,N4 - RNA Sequencing,preterm birth,RNA,N4
+GSM5373531,N4 - miRNA Sequencing,preterm birth,miRNA,N4
+GSM5373532,N5 - RNA Sequencing,preterm birth,RNA,N5
+GSM5373533,N5 - miRNA Sequencing,preterm birth,miRNA,N5

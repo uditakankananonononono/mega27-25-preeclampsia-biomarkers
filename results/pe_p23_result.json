@@ -1,0 +1,77 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44711",
+  "matrix_sha256": "f171107efc41c453fdb32bd85ba0509b2a0c45cf98206c7294d0d637b1130a30",
+  "n_pe": 8,
+  "n_control": 8,
+  "pe_gestational_range": [
+    24.86,
+    37.28
+  ],
+  "control_gestational_range": [
+    25.0,
+    36.0
+  ],
+  "panel": [
+    {
+      "gene": "FES",
+      "status": "measured",
+      "g": -2.3334558340156444,
+      "welch_p": 0.00039878301360596276,
+      "pe_mean": 7.239102713803882,
+      "control_mean": 7.802320864708324,
+      "down": true,
+      "bonferroni": true
+    },
+    {
+      "gene": "GPAT3",
+      "status": "measured",
+      "g": 0.5888207264685524,
+      "welch_p": 0.23419869113770608,
+      "pe_mean": 4.240138599309336,
+      "control_mean": 3.6803621745476383,
+      "down": false,
+      "bonferroni": false
+    },
+    {
+      "gene": "FURIN",
+      "status": "measured",
+      "g": 0.24613834195152515,
+      "welch_p": 0.6108072922638665,
+      "pe_mean": 5.974743978567318,
+      "control_mean": 5.852669886539619,
+      "down": false,
+      "bonferroni": false
+    },
+    {
+      "gene": "GRAMD1A",
+      "status": "measured",
+      "g": -2.255614057024802,
+      "welch_p": 0.0009389859875289915,
+      "pe_mean": 7.541111024977372,
+      "control_mean": 8.106279768851081,
+      "down": true,
+      "bonferroni": true
+    },
+    {
+      "gene": "ZNF467",
+      "status": "measured",
+      "g": -1.405674026900921,
+      "welch_p": 0.011411482247436839,
+      "pe_mean": 6.261849123213281,
+      "control_mean": 6.741712097995128,
+      "down": true,
+      "bonferroni": false
+    },
+    {
+      "gene": "LPGAT1",
+      "status": "measured",
+      "g": -1.3287853957824616,
+      "welch_p": 0.01454390980613554,
+      "pe_mean": 4.765512627096321,
+      "control_mean": 5.2288311027764305,
+      "down": true,
+      "bonferroni": false
+    }
+  ],
+  "registered_rule_pass": false
+}

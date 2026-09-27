@@ -1,0 +1,79 @@
+{
+  "gse": "GSE114691",
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE114nnn/GSE114691/suppl/",
+  "n_case": 20,
+  "n_control": 21,
+  "down": 5,
+  "bonferroni_down_genes": [
+    "FES",
+    "GRAMD1A",
+    "LPGAT1"
+  ],
+  "source_sha256": {
+    "ControlONLY": "3d429c4f8c4324cc5585f1a3dd85c36862b91eb6a6af1b89991f47b274ad020b",
+    "PEONLY": "db15986421b41d4e534f49438aa87223bfac91286f9317051b35096aea937a88"
+  },
+  "mapping": "Current Ensembl lookup/symbol/homo_sapiens/G?expand=1 transcript membership, only transcript IDs found in old release; incomplete historical isoform mapping is a limitation. Summed gene transcript counts then log2 CPM using total transcript counts for each sample; one sample per GEO title.",
+  "single_study_panel_pass": false,
+  "matched_transcript_ids": {
+    "FES": [
+      "ENST00000328850",
+      "ENST00000394300",
+      "ENST00000394302",
+      "ENST00000414248",
+      "ENST00000416779",
+      "ENST00000443697",
+      "ENST00000444422",
+      "ENST00000448367",
+      "ENST00000452243",
+      "ENST00000462476",
+      "ENST00000464684",
+      "ENST00000470152",
+      "ENST00000481665",
+      "ENST00000494259",
+      "ENST00000496379",
+      "ENST00000497945",
+      "ENST00000559355"
+    ],
+    "GPAT3": [
+      "ENST00000264409",
+      "ENST00000395226",
+      "ENST00000506766",
+      "ENST00000509044",
+      "ENST00000509412",
+      "ENST00000513683",
+      "ENST00000514309"
+    ],
+    "FURIN": [
+      "ENST00000268171",
+      "ENST00000558794",
+      "ENST00000560018"
+    ],
+    "GRAMD1A": [
+      "ENST00000317991",
+      "ENST00000411896",
+      "ENST00000424536",
+      "ENST00000594597",
+      "ENST00000595596",
+      "ENST00000598073",
+      "ENST00000598118",
+      "ENST00000598362",
+      "ENST00000598580",
+      "ENST00000599476",
+      "ENST00000599564",
+      "ENST00000600231",
+      "ENST00000603669",
+      "ENST00000603907"
+    ],
+    "ZNF467": [
+      "ENST00000302017",
+      "ENST00000484747"
+    ],
+    "LPGAT1": [
+      "ENST00000366996",
+      "ENST00000366997",
+      "ENST00000488600",
+      "ENST00000498690"
+    ]
+  }
+}

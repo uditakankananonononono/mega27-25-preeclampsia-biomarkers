@@ -1,0 +1,9 @@
+disease,gse,tissue,unit,n_case,n_control,n_tested,n_agree,g,se,one_sided_p,note
+pcos,GSE155489,cumulus granulosa cells,counts,4,4,17,16,,,0.0001373291015625,PCOS exploratory top-20 sign test; misses are excluded from denominator; uncorrected cohort p
+pcos,GSE262735,PBMC monocytes,counts,9,9,17,11,,,0.1661529541015625,PCOS exploratory top-20 sign test; misses are excluded from denominator; uncorrected cohort p
+pcos,GSE277906,cumulus cells,counts,23,17,17,12,,,0.0717315673828125,PCOS exploratory top-20 sign test; misses are excluded from denominator; uncorrected cohort p
+pcos,GSE304677,ovarian granulosa cells,counts,5,5,18,17,,,7.2479248046875e-05,PCOS exploratory top-20 sign test; misses are excluded from denominator; uncorrected cohort p
+preeclampsia,GSE204835,placenta (paraffin-embedded),counts,16,12,1,1,-0.496793,0.38760933941276493,0.09997661896643556,"P3 ST3GAL2 down; cohort-level, not familywise or all-cohort conclusion"
+preeclampsia,GSE296973,peripheral blood,FPKM,10,10,1,0,0.936231,0.47107642692030344,0.9765625673082239,"P3 ST3GAL2 down; cohort-level, not familywise or all-cohort conclusion"
+preeclampsia,GSE303840,placenta,counts,12,12,1,1,-0.882398,0.42765406580552934,0.019539917243497632,"P3 ST3GAL2 down; cohort-level, not familywise or all-cohort conclusion"
+preeclampsia,GSE306864,chorionic villus,counts,13,45,1,0,0.0908123,0.314986348910552,0.6134435551545792,"P3 ST3GAL2 down; cohort-level, not familywise or all-cohort conclusion"

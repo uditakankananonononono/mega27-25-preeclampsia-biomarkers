@@ -1,0 +1,12 @@
+{
+  "gse": "GSE177049",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE177049",
+  "n_case": 5,
+  "n_control": 5,
+  "genes_measured": 6,
+  "genes_down": 3,
+  "same_direction_bonferroni": [],
+  "descriptive_panel_support": false,
+  "workbook_sha256": "c882ad47d8f64c9c84cf3b643418518ee0f4839087c987ecd3205096557847d1",
+  "interpretation": "Published small 5/5 at-delivery placenta preterm-birth controls, not early prospective prediction, new discovery or specificity"
+}

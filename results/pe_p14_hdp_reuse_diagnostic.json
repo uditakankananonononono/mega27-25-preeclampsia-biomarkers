@@ -1,0 +1,221 @@
+{
+  "scope": "selected FES exploratory reuse-risk/confounding diagnostic, not independent cohort",
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303463/",
+  "count_sha256": "d9ba5a9d683236f35b87286a700e6506f1039b121fde279a8dc460b6f36e49c5",
+  "metadata_url": [
+    "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303463/matrix/GSE303463-GPL24676_series_matrix.txt.gz",
+    "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303463/matrix/GSE303463-GPL34281_series_matrix.txt.gz"
+  ],
+  "counts": [
+    {
+      "platform": "GPL24676",
+      "disease": "Normal",
+      "placental pathology": "nonMVM",
+      "n": 8
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "cHTN",
+      "placental pathology": "MVM",
+      "n": 1
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "cHTN",
+      "placental pathology": "nonMVM",
+      "n": 2
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "gHTN",
+      "placental pathology": "MVM",
+      "n": 1
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "gHTN",
+      "placental pathology": "nonMVM",
+      "n": 2
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "siPE",
+      "placental pathology": "MVM",
+      "n": 8
+    },
+    {
+      "platform": "GPL24676",
+      "disease": "siPE",
+      "placental pathology": "nonMVM",
+      "n": 16
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "Normal",
+      "placental pathology": "MVM",
+      "n": 4
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "Normal",
+      "placental pathology": "nonMVM",
+      "n": 56
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "PE",
+      "placental pathology": "MVM",
+      "n": 13
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "PE",
+      "placental pathology": "nonMVM",
+      "n": 9
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "cHTN",
+      "placental pathology": "MVM",
+      "n": 4
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "cHTN",
+      "placental pathology": "nonMVM",
+      "n": 6
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "gHTN",
+      "placental pathology": "MVM",
+      "n": 4
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "gHTN",
+      "placental pathology": "nonMVM",
+      "n": 4
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "siPE",
+      "placental pathology": "MVM",
+      "n": 14
+    },
+    {
+      "platform": "GPL34281",
+      "disease": "siPE",
+      "placental pathology": "nonMVM",
+      "n": 16
+    }
+  ],
+  "all_pe_normal": {
+    "n_pe": 22,
+    "n_normal": 68,
+    "mean_pe": 3.590603092119638,
+    "mean_normal": 4.158322174339348,
+    "g": -0.9911129855502867,
+    "welch_p": 6.823960069284114e-06
+  },
+  "platforms": {
+    "GPL24676": {
+      "n_pe": 0,
+      "n_normal": 8,
+      "status": "insufficient groups"
+    },
+    "GPL34281": {
+      "n_pe": 22,
+      "n_normal": 60,
+      "mean_pe": 3.590603092119638,
+      "mean_normal": 3.997063114566286,
+      "g": -0.9442780630952261,
+      "welch_p": 0.00031960949344483626
+    }
+  },
+  "gestational_34plus": {
+    "n_pe": 13,
+    "n_normal": 63,
+    "mean_pe": 3.5921815428999158,
+    "mean_normal": 4.163898684261859,
+    "g": -0.9965000610266385,
+    "welch_p": 2.4349258624446972e-05
+  },
+  "same_platform_age_34to39": {
+    "n_pe": 13,
+    "n_normal": 41,
+    "mean_pe": 3.5921815428999158,
+    "mean_normal": 4.004243901933541,
+    "g": -1.1303578903683729,
+    "welch_p": 0.0007001509026718864
+  },
+  "same_platform_nonMVM": {
+    "n_pe": 9,
+    "n_normal": 56,
+    "mean_pe": 3.4642382752886522,
+    "mean_normal": 4.008689890047954,
+    "g": -1.2108814939620363,
+    "welch_p": 0.014557229517294866
+  },
+  "same_platform_MVM": {
+    "n_pe": 13,
+    "n_normal": 4,
+    "mean_pe": 3.67808642684878,
+    "mean_normal": 3.834288257822931,
+    "g": -0.43351671846626644,
+    "welch_p": 0.5818640710859806
+  },
+  "complete_case_age_by_disease": {
+    "Normal": {
+      "min": 27,
+      "max": 41,
+      "median": 39.0,
+      "count": 68
+    },
+    "PE": {
+      "min": 30,
+      "max": 39,
+      "median": 35.0,
+      "count": 22
+    }
+  },
+  "complete_case_mvm_by_disease": [
+    {
+      "disease": "Normal",
+      "placental pathology": "MVM",
+      "n": 4
+    },
+    {
+      "disease": "Normal",
+      "placental pathology": "nonMVM",
+      "n": 64
+    },
+    {
+      "disease": "PE",
+      "placental pathology": "MVM",
+      "n": 13
+    },
+    {
+      "disease": "PE",
+      "placental pathology": "nonMVM",
+      "n": 9
+    }
+  ],
+  "person_source_mapping": "UNRESOLVED: parent GSE explicitly reuses GSE186257, GSE234729 and PRJNA1027377; no independent validation claim or accession tally.",
+  "platform_adjustment": {
+    "GPL24676": {
+      "n": 8,
+      "status": "insufficient full-rank design"
+    },
+    "GPL34281": {
+      "n": 82,
+      "pe_beta": -0.38013088183633853,
+      "pe_p": 0.007278163480092155,
+      "pe_95_ci": [
+        -0.6547081972147994,
+        -0.10555356645787756
+      ],
+      "note": "post-diagnosis gestation/pathology may mediate and is not causal control"
+    }
+  }
+}
